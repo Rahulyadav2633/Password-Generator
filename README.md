@@ -28,15 +28,17 @@ Run the application: npm start
 Open your browser and go to http://localhost:3000
 Use the intuitive interface to customize your password preferences and click "Generate"
 Copy the generated password to your clipboard with the "Copy" button
+
 Contributing
+
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
 Fork the repository
 
-Create a new branch: git checkout -b feature/your-feature-name
-Make your changes and commit them: git commit -m 'Add your feature'
-Push to the branch: git push origin feature/your-feature-name
-Create a pull request
+1.Create a new branch: git checkout -b feature/your-feature-name
+2.Make your changes and commit them: git commit -m 'Add your feature'
+3.Push to the branch: git push origin feature/your-feature-name
+4.Create a pull request
 
 LISCENSE
 
